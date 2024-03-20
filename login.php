@@ -68,7 +68,7 @@
 
         <h1>Login</h1>
 
-        <form action="testlogin.php" method="POST">
+        <form action="usuario.php" method="POST">
             <input type="text" name="email" placeholder="EMAIL">
             <br><br>
             <input type="password" name="senha" placeholder="Senha">
